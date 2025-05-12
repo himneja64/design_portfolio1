@@ -1,7 +1,6 @@
 <div align="center">
 	<h1>Design portfolio</h1>
-	<h3>💻사이트 이동하기💻</h3>
-	<a href=https://himneja64.github.io/design_portfolio1></a>
+	<h3><a href=https://himneja64.github.io/design_portfolio1>💻사이트 이동하기💻</a></h3>
 </div>
 <br/>
 <div align="end">
