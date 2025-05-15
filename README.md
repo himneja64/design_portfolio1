@@ -27,6 +27,9 @@
 |![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white&style=flat-square) |슬라이더 구현|
 |![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square)|부드럽고 가벼운 애니메이션 구현|
 
+<br/>
+## ⌨코드 살펴보기
+
 ### 1. 화면 사이즈💻
 <details>
 	<summary>💛적용 구간 보기</summary>
