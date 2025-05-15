@@ -1,6 +1,7 @@
 <div align="center">
 	<h1>Design portfolio</h1>
 	<h3><a href=https://himneja64.github.io/design_portfolio1>💻사이트 이동하기💻</a></h3>
+	<p>HTML, CSS, Emmit, Js Libraries를 활용하여 작업한 반응형 웹페이지입니다.</p>
 </div>
 <br/>
 <div align="end">
@@ -9,10 +10,31 @@
 
 <br/>
 
-## CODE
-<image src="https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff"> <image src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3"> <image src="https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff">
+## 📌주요 기능
+- 창 너비 체크 및 메뉴 초기화
+- 메뉴 버튼 클릭 시 메뉴 열고 닫기
+- GNB 항목 클릭/마우스 이벤트 처리
+- 슬라이드 이미지 경로 설정
+- 디바이스 종류 확인 및 GSAP 타이포 효과 설정
+- 요소에 스크롤 트리거 효과
+
+## 🧩사용 기술
+|기술|설명|
+|---|---|
+|![HTML](https://img.shields.io/badge/-HTML-F05032?style=flat-square&logo=html5&logoColor=ffffff)|HTML5 웹표준 준수|
+|![CSS](https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3)|반응형 처리 및 디자인|
+|![JavaScript](https://img.shields.io/badge/-JavaScript-dc8d2d?style=flat-square&logo=javascript&logoColor=ffffff)|웹 요소의 제어 및 라이브러리 연동|
+|![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white&style=flat-square) |슬라이더 구현|
+|![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=flat-square)|부드럽고 가벼운 애니메이션 구현|
 
 ### 1. 화면 사이즈💻
+<details>
+	<summary>💛적용 구간 보기</summary>
+	|: 동작 이전 :|: 동작 이후 :|
+	|***|***|
+	| ![Image](https://github.com/user-attachments/assets/b069f0a6-38fb-4ae4-9b81-97178c28e63d) | ![Image](https://github.com/user-attachments/assets/3ad59cb0-abe9-4665-867f-4396e9f45327) |
+</details>
+
 ```javascript
 	let desktopFlag;
 
@@ -51,6 +73,13 @@
 <br>
 
 ### 2. GNB 2depth 📂
+<details>
+	<summary>💛적용 구간 보기</summary>
+	|: 동작 이전 :|: 동작 이후 :|
+	|***|***|
+	| ![Image](https://github.com/user-attachments/assets/71f8fc4e-bb01-4e27-a64c-6f01e772b108) | ![Image](https://github.com/user-attachments/assets/aed3da53-6b0b-4175-bd75-4ced48a1a992) |
+</details>
+
 ```javascript
 	Array.from(gnbList).forEach(function(item1, i){
 		item1.addEventListener("click", function(e){
@@ -93,6 +122,7 @@
 <br>
 
 ### 3. 중복 요소 가변적으로 처리하기 ⛓
+
 ```javascript
 	const imageData=[
 		{
@@ -123,6 +153,13 @@
 <br>
 
 ### 4. custom mouse 🖱
+<details>
+	<summary>💛적용 구간 보기</summary>
+	|: 동작 :|
+	|***|
+	| https://github.com/user-attachments/assets/029d4194-50df-4f3b-bf20-0e6085fd4d6d |
+</details>
+
 ```javascript
 	let customHover=document.querySelectorAll(".custom-hover");
 	let pageTop=document.querySelector("#page-top");
