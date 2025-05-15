@@ -223,4 +223,4 @@
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=100&width=100%&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=100&width=100vw&section=footer)
