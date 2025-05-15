@@ -33,7 +33,7 @@
 
 ### 1. 화면 사이즈💻
 <details>
-	<summary>💛적용 구간 보기</summary>
+	<summary><b>💛적용 구간 보기</b></summary>
 	<table>
 		<tr>
 			<td>동작 이전</td><td>동작 이후</td>
@@ -83,7 +83,7 @@
 
 ### 2. GNB 2depth 📂
 <details>
-	<summary>💛적용 구간 보기</summary>
+	<summary><b>💛적용 구간 보기</b></summary>
 	<table>
 		<tr>
 			<td>동작 이전</td><td>동작 이후</td>
@@ -168,7 +168,7 @@
 
 ### 4. custom mouse 🖱
 <details>
-	<summary>💛적용 구간 보기</summary>
+	<summary><b>💛적용 구간 보기</b></summary>
 	<table>
 		<tr>
 			<td>동작</td>
