@@ -31,8 +31,8 @@
 <details>
 	<summary>💛적용 구간 보기</summary>
 	|: 동작 이전 :|: 동작 이후 :|
-	|***|***|
-	| ![Image](https://github.com/user-attachments/assets/b069f0a6-38fb-4ae4-9b81-97178c28e63d) | ![Image](https://github.com/user-attachments/assets/3ad59cb0-abe9-4665-867f-4396e9f45327) |
+	|***************|***************|
+	| ![](https://github.com/user-attachments/assets/b069f0a6-38fb-4ae4-9b81-97178c28e63d) | ![](https://github.com/user-attachments/assets/3ad59cb0-abe9-4665-867f-4396e9f45327) |
 </details>
 
 ```javascript
@@ -76,8 +76,8 @@
 <details>
 	<summary>💛적용 구간 보기</summary>
 	|: 동작 이전 :|: 동작 이후 :|
-	|***|***|
-	| ![Image](https://github.com/user-attachments/assets/71f8fc4e-bb01-4e27-a64c-6f01e772b108) | ![Image](https://github.com/user-attachments/assets/aed3da53-6b0b-4175-bd75-4ced48a1a992) |
+	|***************|***************|
+	| ![](https://github.com/user-attachments/assets/71f8fc4e-bb01-4e27-a64c-6f01e772b108) | ![](https://github.com/user-attachments/assets/aed3da53-6b0b-4175-bd75-4ced48a1a992) |
 </details>
 
 ```javascript
@@ -156,7 +156,7 @@
 <details>
 	<summary>💛적용 구간 보기</summary>
 	|: 동작 :|
-	|***|
+	|***************|
 	| https://github.com/user-attachments/assets/029d4194-50df-4f3b-bf20-0e6085fd4d6d |
 </details>
 
