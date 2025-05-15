@@ -174,7 +174,7 @@
 			<td>동작</td>
 		</tr>
 		<tr>
-			<td><video src="https://github.com/user-attachments/assets/029d4194-50df-4f3b-bf20-0e6085fd4d6d" alt="custom mouse" controls muted controlsList="nodownload" playsinline loop /></video></td>
+			<td><video src="https://github.com/user-attachments/assets/029d4194-50df-4f3b-bf20-0e6085fd4d6d" controls muted controlsList="nodownload" playsinline loop /></video></td>
 		</tr>
 	</table>
 </details>
