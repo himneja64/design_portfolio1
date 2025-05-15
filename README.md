@@ -79,7 +79,7 @@
 >
 > 또한 함수를 호출하여 최초 로드시 강제로 1회 실행시킵니다.
 
-<br>
+<br/>
 
 ### 2. GNB 2depth 📂
 <details>
@@ -133,7 +133,7 @@
 > 이때 클릭한 아이템만 열고 나머지는 모두 닫도록 합니다.  
 > 반대로 열려 있었다면 닫도록합니다. (토글 기능 구현)
 
-<br>
+<br/>
 
 ### 3. 중복 요소 가변적으로 처리하기 ⛓
 
@@ -164,7 +164,7 @@
 > 해당 부분은 Template Literal방식을 사용하여 작성했습니다.  
 > 유사한 이름을 가진 요소들을 배열로 묶을 처리 한 후, 적용할 부분에 작성했습니다.
 
-<br>
+<br/>
 
 ### 4. custom mouse 🖱
 <details>
@@ -221,5 +221,6 @@
 >
 > 평소에는 위의 기본값이 드러나지 않지만, 특정 위치(customHove)에서는 마우스의 형태가 변화함과 더불어 시각적으로도 효과가 드러나도록 했습니다.
 
+<br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=#101010&height=50&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=footer)
