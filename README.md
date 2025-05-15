@@ -164,3 +164,6 @@
 > 기본적으로 사용자의 마우스를 느긋하게 따라오되 `ease: Power3.easeOut` 값을 주어 부드러운 움직임을 나타내도록 했습니다.
 >
 > 평소에는 위의 기본값이 드러나지 않지만, 특정 위치(customHove)에서는 마우스의 형태가 변화함과 더불어 시각적으로도 효과가 드러나도록 했습니다.
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
